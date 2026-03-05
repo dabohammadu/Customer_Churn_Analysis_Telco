@@ -1,6 +1,3 @@
-Here is a **concise, GitHub-friendly summary** of your README while keeping the key technical details.
-
----
 
 # Customer Churn Prediction Using Machine Learning
 
