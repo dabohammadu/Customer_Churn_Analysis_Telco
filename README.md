@@ -11,22 +11,15 @@ Project Workflow
 The machine learning pipeline includes:
 
 Data Loading and Inspection
-
 Exploratory Data Analysis (EDA)
-
 Feature Engineering
-
 Data Preprocessing (Encoding & Scaling)
-
 Train/Test Split
-
 Model Training and Cross Validation
-
 Model Evaluation
-
 Feature Importance Analysis
-
 Model Saving for Deployment
+
 
 Dataset
 
